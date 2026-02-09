@@ -108,3 +108,25 @@
 - [Help:格式 - openSUSE Wiki](https://zh.opensuse.org/index.php?title=Help:%E6%A0%BC%E5%BC%8F)
 
 - [W3C 中文排版需求](https://www.w3.org/TR/clreq/)
+
+
+<link rel="preconnect" href="https://cdn.jsdelivr.net" crossorigin>
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@raineblog/mkdocs-fontkit@latest/dist/fonts.min.css">
+
+<style>
+    * {
+        font-family: "Aleo", "FZNewShuSong", "Zen Old Mincho", "Chiron Sung HK", "Noto Serif SC", serif;
+        font-variant-ligatures: contextual;
+        -webkit-font-smoothing: antialiased;
+        -moz-osx-font-smoothing: grayscale;
+    }
+
+    h1 {
+        font-family: "lobster", "zhi-mang-xing", "Aleo", "FZNewShuSong", "Zen Old Mincho", "Chiron Sung HK", "Noto Serif SC", serif;
+    }
+
+    html {
+        scroll-behavior: smooth;
+    }
+</style>
