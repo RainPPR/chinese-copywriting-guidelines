@@ -4,7 +4,7 @@
 
 ## 空格
 
-关于中文和英文之间添加空格，在排版界始终是有争议的，例如维基百科和某些出版社，他们要求中文和英文、数字之间不添加空格，他们依赖于，或者说推崇使用排版软件（例如 Microsoft Word）的自动处理，或者 [`test-spacing`](https://www.w3.org/TR/css-text-4/#text-spacing-property) 和 [-ms-text-autospace](https://learn.microsoft.com/en-us/previous-versions/ms531164(v=vs.85)) 来实现。一般来说，尤其是在 Markdown 和开发环境中，我建议在大多数场景下遵循下面的规范。
+关于中文和英文之间添加空格，在排版界始终是有争议的，例如维基百科和某些出版社，他们要求中文和英文、数字之间不添加空格，他们依赖于，或者说推崇使用排版软件（例如 Microsoft Word）的自动处理，或者 [`test-spacing`](https://www.w3.org/TR/css-text-4/#text-spacing-property) 和 [`-ms-text-autospace`](https://learn.microsoft.com/en-us/previous-versions/ms531164(v=vs.85)) 来实现。一般来说，尤其是在 Markdown 和开发环境中，我建议在大多数场景下遵循下面的规范。
 
 - 中英文之间需要增加空格。
 
